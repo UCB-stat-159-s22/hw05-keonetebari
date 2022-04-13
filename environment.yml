@@ -10,6 +10,8 @@ dependencies:
   #- matplotlib-inline = 0.1
   - numpy=1.16
   - decorator=4.3
+  - scipy=1.2
+  
     
     
   # #- python=3.9.9
